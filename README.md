@@ -8,7 +8,7 @@ Abordagem: Utilizei bibliotecas de expressões regulares (Regex) em python para 
 Primeiro foi realizada a leitura crua do arquivo em .txt:
 
 ``` python
-import pands as pd
+import pandas as pd
 import re
 import sqlite3
 
